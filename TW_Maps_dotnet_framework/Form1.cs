@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TW_Maps_dotnet_framework
 {
-    public partial class TW_maps : Form
+    public partial class TopModal : Form
     {
-        public TW_maps()
+        public TopModal()
         {
             InitializeComponent();
         }

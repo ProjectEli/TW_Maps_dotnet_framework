@@ -16,7 +16,7 @@ namespace TW_Maps_dotnet_framework
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TW_maps());
+            Application.Run(new TopModal());
         }
     }
 }
